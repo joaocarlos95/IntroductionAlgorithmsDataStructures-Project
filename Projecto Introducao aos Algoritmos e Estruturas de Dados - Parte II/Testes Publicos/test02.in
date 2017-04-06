@@ -1,0 +1,20 @@
+cheque 50 1 2 1
+processa
+processa
+cheque 100 2 3 2
+cheque 200 1 3 3
+cheque 300 4 5 4
+cheque 400 6 7 5
+cheque 501 8 9 6
+cheque 602 9 1 7
+cheque 703 1 4 8
+processa
+processa
+processaR 1
+infocheque 7
+processaR 8
+infocheque 7
+cheque 808 1 4 9
+infocheque 9
+info
+sair

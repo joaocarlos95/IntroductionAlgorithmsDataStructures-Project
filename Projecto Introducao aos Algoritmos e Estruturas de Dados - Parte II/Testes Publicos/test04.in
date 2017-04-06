@@ -1,0 +1,33 @@
+info
+cheque 50 1000 2000 4
+infocliente 2000
+processa
+info
+cheque 100 2001 3002 9
+cheque 200 3003 3002 150
+processa
+infocliente 3003
+infocliente 3003
+cheque 300 4004 3002 4003
+cheque 400 5005 3002 5005
+cheque 501 1 2 10001
+processa
+info
+cheque 602 90000000 3001 6006
+cheque 703 1 3 5004
+infocliente 90000000
+processaR 10001
+processaR 150
+processaR 4003
+processa
+infocliente 3001
+info
+cheque 50 1000 2000 4
+cheque 100 2001 3002 9
+cheque 200 3003 3002 150
+cheque 300 4004 3002 4003
+infocheque 4
+infocliente 3002
+info
+infocliente 4004
+sair
